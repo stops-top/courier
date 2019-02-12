@@ -4,9 +4,13 @@
 
 ## [简介](https://github.com/tfzoo/RNN/wiki) 
 
+[RNN = recurrent neural network ](https://en.wikipedia.org/wiki/Recurrent_neural_network) 
 
+网络内部状态可以展示动态时序行为，RNN可以利用它内部的记忆来处理任意时序的输入序列
 
 ## [组成](tfzoo/) 
+
+###  [RNN示例](examples/) 
 
 ####  [古诗作诗机器](https://github.com/jinfagang/tensorflow_poems) 
 
@@ -18,6 +22,6 @@
 
 ---
 
-###  [tfzoo：tensorflow models zoo](http://www.tfzoo.com)
-###  qitas@qitas.cn
-###  2018-12-13
+###  [tfzoo ：tensorflow models zoo](http://www.tfzoo.com)
+####  qitas@qitas.cn
+#### 天府动物园
