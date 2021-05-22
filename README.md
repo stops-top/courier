@@ -5,3 +5,12 @@
 ### [简介](https://github.com/stopstopstop/courier/wiki)
 
 基于Hi-Link WIFI6 模组开发
+
+
+#### 本地网络配置
+
+* Arm linux
+* x64 linux
+* x64 window
+* Arm macos
+
